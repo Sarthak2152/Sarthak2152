@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">💻 Working as a Frontend intern @KoinX<br>📚 Former FullStack intern @ itax Easy<br>🧑‍💻 Looking to collaborate on Open Source Projects</p>
+<p align="left">💻 Working as a Frontend intern @KoinX<br>📚 Former FullStack intern @ItaxEasy<br>🧑‍💻 Looking to collaborate on Open Source Projects</p>
 
 ###
 
